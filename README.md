@@ -1,4 +1,4 @@
-# Gmail MCP Tool 📧
+# Email MCP Tool 📧
 
 A Model Context Protocol (MCP) server that provides email sending capabilities through SMTP using Brevo (formerly Sendinblue) as the email service provider.
 
